@@ -2,6 +2,8 @@
 🌟 Software Engineer in the making  | 🧑‍💻 LeetCode & Codeforces Enthusiast
 
 🚀 What I’m Working On:
+
+
 💻 Android Development with Kotlin and Jetpack Compose — Building interactive, user-friendly mobile apps like Shopping List App and Lemonade App.
 
 
@@ -11,6 +13,8 @@
 📚 Constantly learning and experimenting with new tech and frameworks to build more efficient and innovative solutions.
 
 💡 My Highlights:
+
+
 🏆 Rank 1 in ByteBattle Coding Contest | 🥈 Rank 2 in ByteBattle Coding Contest at my university.
 
 
@@ -23,6 +27,8 @@
 🌍 Focused on delivering real-world solutions through clean, optimized code.
 
 📈 Skills:
+
+
 Languages & Tools: Kotlin, Java, Android Studio, Jetpack Compose, Git
 
 
