@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react , typescript**
+- 💬 Ask me about **CP , DSA , OS , DBMS , OOPS , FULL-STACK**
 
 - 📫 How to reach me **praveenkumar042023@gmail.com**
 
