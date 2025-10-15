@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar02023&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar02023" /> </p>
 
-- 🔭 I’m currently working on **drawIT**
+- 🔭 I’m currently working on **ShellBuddy**
 
 - 🌱 I’m currently learning **Nextjs**
 
