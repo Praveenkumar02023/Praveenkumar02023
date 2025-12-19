@@ -5,7 +5,8 @@ I like working across the stack — from crafting smooth UIs to designing reliab
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Praveen%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkumar2023-ac/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://prvn-kumar.vercel.app)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkumar042023@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/prvn_2023)
 ---
 
 ### 👨‍💻 About Me
