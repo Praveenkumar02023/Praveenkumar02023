@@ -10,7 +10,7 @@ I like working across the stack — from crafting smooth UIs to designing reliab
 ---
 
 ###  About Me
--  Full-stack developer (MERN, Spring Boot)
+-  Full-stack developer 
 -  Building real-world apps with a focus on usability
 -  Strong in DSA, problem solving & fundamentals
 -  Learning scalable backend systems & architecture
