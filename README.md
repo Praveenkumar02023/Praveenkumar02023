@@ -8,14 +8,4 @@ I like working across the stack — from crafting smooth UIs to designing reliab
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenkumar042023@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/prvn_2023)
 ---
-
-###  About Me
--  Full-stack developer 
--  Building real-world apps with a focus on usability
--  Strong in DSA, problem solving & fundamentals
--  Learning scalable backend systems & architecture
--  Believe good UX + clean code = great products
-
----
-
 > *Building in public. Learning consistently. Improving daily.*
